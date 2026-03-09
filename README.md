@@ -26,31 +26,6 @@ The goal of this project is to practice **front-end web development** and unders
 
 ---
 
-## 📂 Project Structure
-
-e-commerce-website
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository
-
-git clone https://github.com/Dakshjain54/e-commerce-website.git
-
-2. Open the project folder
-
-cd e-commerce-website
-
-3. Open **index.html** in your browser.
-
----
-
 ## 🎯 Learning Outcomes
 
 - Understanding of **website structure**
